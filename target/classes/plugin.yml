@@ -1,0 +1,10 @@
+name: HealthAmulet
+version: '1.2'
+main: com.ashkiano.healthamulet.HealthAmulet
+api-version: '1.16'
+author: AshKiano
+description: Plugin that adds extra health when player has the custom amulet in the hotbar.
+commands:
+  giveamulet:
+    description: Gives the player a health amulet.
+    usage: /<command>

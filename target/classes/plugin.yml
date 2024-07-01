@@ -1,5 +1,5 @@
 name: HealthAmulet
-version: '1.3'
+version: '1.5'
 main: com.ashkiano.healthamulet.HealthAmulet
 api-version: '1.16'
 author: AshKiano
